@@ -13,7 +13,7 @@ Currently improving my react skills and also try to be consistent with DSA pract
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn"  width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-instagram-social-media-icon-design-template-vector-png-image_3654765.jpg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
